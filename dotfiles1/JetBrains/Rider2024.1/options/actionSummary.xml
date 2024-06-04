@@ -1,0 +1,55 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="2" l="1714677461237" />
+    </e>
+    <e n="EditorDown">
+      <i c="41" l="1714677416143" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1" l="1714677465678" />
+    </e>
+    <e n="EditorGutterToggleGlobalStickyLines">
+      <i c="1" l="1714677477144" />
+    </e>
+    <e n="EditorIncreaseFontSize">
+      <i c="1" l="1714677396545" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="1" l="1714677453206" />
+    </e>
+    <e n="EditorRight">
+      <i c="1" l="1714677460822" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1714677501112" />
+    </e>
+    <e n="RiderOpenSolution">
+      <i c="3" l="1714677293391" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1714677514337" />
+    </e>
+    <e n="Stop">
+      <i c="4" l="1714677583616" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="1" l="1714677406547" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1714677241511" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="2" l="1714677239634" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="3" l="1714677286128" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="7" l="1714677577554" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1714677503560" />
+    </e>
+  </component>
+</application>

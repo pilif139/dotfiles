@@ -1,0 +1,54 @@
+<application>
+  <component name="FileEditorProviderManager"><![CDATA[{}]]></component>
+  <component name="LangManager">
+    <option name="languageName" value="C#" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "Debug.Allow.Typing": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "RD.Init.Cfg.2": "true",
+    "RD.Init.DialogShown.Ide": "true",
+    "Rider.Last.Observed.New.UI.State": "true",
+    "Rider.Last.Started.IDE.Build": "RD-241.14494.325",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "evlsprt3.241": "7",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "241.14494.325",
+    "experimentalFeature.editor.reader.mode": "false",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "last_open_solution_path": "/home/filip/programming/programowanie-obiektowe/sprawdzian/sprawdzian",
+    "last_opened_file_path": "/home/filip/programming/programowanie-obiektowe/sprawdzian/sprawdzian",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "previousColorScheme": "_@user_Dark",
+    "promo.ignore.ultimate.edition": "true",
+    "registry.to.advanced.settings.migration.build": "RD-241.14494.325",
+    "rider.tool.window.stripe.manager.enable": "true",
+    "toolwindow.stripes.buttons.info.shown": "true",
+    "ts.lib.d.ts.version": "5.2.2"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/filip/programming/programowanie-obiektowe/sprawdzian/sprawdzian",
+      "/home/filip/programming/programowanie-obiektowe/sprawdzian/sprawdzian.sln"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
