@@ -1,10 +1,11 @@
 # dotfiles
 linux dotfiles
-
+```
 window manager: i3
 compositor: picom
 terminal: kitty
 bar: polybar
+```
 
 ![obraz](https://github.com/pilif139/dotfiles/assets/106279713/f3dd6998-e670-47ef-ba5d-80f65a3f61f0)
 
